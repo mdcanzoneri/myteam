@@ -8,3 +8,12 @@
 .jumbotron img {
   height: 300px;
 }
+
+.jumbotron {
+  background-image: url(coliseum.jpeg);
+  background-size: cover;
+}
+
+.jumbotron h1 {
+  color: #990000;
+}
